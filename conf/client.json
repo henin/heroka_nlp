@@ -1,0 +1,9 @@
+{
+	"ner": {
+		"aws": {
+			"aws_access_key_id": "AXXXXXXXXXXXXX",
+			"aws_secret_access_key": "SVDFFDXXXXXXXXXXXXXXXX",
+            "region": "ap-southeast-1"
+		}
+	}
+}

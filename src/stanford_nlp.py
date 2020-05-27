@@ -1,3 +1,18 @@
+# ======================================================================================================================
+# !/usr/bin/env python3
+# Filename: stanford_nlp.py
+# Description: Standford related functionalities
+# Author: Henin Karkada <henin.roland@gmail.com>
+#        # Python Environment - Python3
+
+
+# @TODO: This functionality is not yet created
+# Dependencies:
+# 1. pip install spacy
+# 2. python -m spacy download en_core_web_sm
+
+# ======================================================================================================================
+
 
 # coding: utf-8
 
