@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 # Filename: tools.py
 # Description: Re-usable functions/methods
-# Author: Henin Karkada <henin.karkada@namastecredit.com>
+# Author: Henin Karkada <henin.roland@gmail.com>
 # Python Environment - Python2/Python3
 # Usage: To be used as a module
 # ========================================================================================
